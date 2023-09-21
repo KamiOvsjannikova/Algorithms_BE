@@ -1,4 +1,4 @@
-package lesson20230919;
+package algorithms_2023_09_19;
 
 public class GcdAlgorithm {
 
